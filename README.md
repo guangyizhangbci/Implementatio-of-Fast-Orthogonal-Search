@@ -2,7 +2,7 @@
 
 This is a course project on Nonlinear Systems: Analysis and Identification (ELEC 841, Queen's University)
 
-Project Code and report attached
+Project report and code attached
 
 Run python3 FOS/main.py
 
