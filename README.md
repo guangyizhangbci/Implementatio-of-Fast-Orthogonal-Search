@@ -7,7 +7,7 @@ Project Code and report attached
 Run python3 FOS/main.py
 
 
-If you find this material useful, please cite the following publications:<br />
+If you find this material useful, please cite the following publications first authored by [Prof. Michael J. Korenberg] (https://www.ece.queensu.ca/people/MJ-Korenberg/index.html):<br />
 1. [Orthogonal approaches to time-series analysis and system identification](https://ieeexplore.ieee.org/abstract/document/127999) <br />
 @article{korenberg1991orthogonal,<br />
   title={Orthogonal approaches to time-series analysis and system identification},<br />
@@ -20,7 +20,7 @@ If you find this material useful, please cite the following publications:<br />
   publisher={IEEE}<br />
 }<br />
 
-2. [Applications of fast orthogonal search: Time-series analysis and resolution of signals in noise] (https://link.springer.com/article/10.1007/BF02368043)<br />
+2. [Applications of fast orthogonal search: Time-series analysis and resolution of signals in noise](https://link.springer.com/article/10.1007/BF02368043)<br />
 @article{korenberg1989applications,<br />
   title={Applications of fast orthogonal search: Time-series analysis and resolution of signals in noise},<br />
   author={Korenberg, Michael J and Paarmann, Larry D},<br />
