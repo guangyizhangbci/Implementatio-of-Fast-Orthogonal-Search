@@ -10,13 +10,13 @@ Run python3 FOS/main.py
 If you find this material useful, please cite the following publications:
 [Orthogonal approaches to time-series analysis and system identification](https://ieeexplore.ieee.org/abstract/document/127999)
 
-@article{korenberg1991orthogonal,
-  title={Orthogonal approaches to time-series analysis and system identification},
-  author={Korenberg, Michael J and Paarmann, Larry D},
-  journal={IEEE Signal Processing Magazine},
-  volume={8},
-  number={3},
-  pages={29--43},
-  year={1991},
-  publisher={IEEE}
-}
+@article{korenberg1991orthogonal,<br />
+  title={Orthogonal approaches to time-series analysis and system identification},<br />
+  author={Korenberg, Michael J and Paarmann, Larry D},<br />
+  journal={IEEE Signal Processing Magazine},<br />
+  volume={8},<br />
+  number={3},<br />
+  pages={29--43},<br />
+  year={1991},<br />
+  publisher={IEEE}<br />
+}<br />
