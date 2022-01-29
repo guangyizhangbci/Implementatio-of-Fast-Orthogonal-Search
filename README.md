@@ -7,7 +7,7 @@ Project report and code attached
 Run python3 FOS/main.py
 
 
-If you find this material useful, please cite the following publications first authored by [Prof. Michael J. Korenberg] (https://www.ece.queensu.ca/people/MJ-Korenberg/index.html):<br />
+If you find this material useful, please cite the following publications first authored by [Prof. Michael J. Korenberg](https://www.ece.queensu.ca/people/MJ-Korenberg/index.html):<br />
 1. [Orthogonal approaches to time-series analysis and system identification](https://ieeexplore.ieee.org/abstract/document/127999) <br />
 BibTeX<br />
 @article{korenberg1991orthogonal,<br />
