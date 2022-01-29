@@ -4,7 +4,7 @@ This is a course project on Nonlinear Systems: Analysis and Identification (ELEC
 
 Project report and code attached
 
-Run python3 main.py
+Run the code: python3 main.py
 
 
 If you find this material useful, please cite the following publications first authored by [Prof. Michael J. Korenberg](https://www.ece.queensu.ca/people/MJ-Korenberg/index.html):<br />
